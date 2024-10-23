@@ -1,0 +1,8 @@
+{
+    "css/forest_theme.css": [
+      "public/css/forest_theme.css"
+    ],
+    "js/forest_theme.js": [
+      "public/js/forest_theme.js"
+    ]
+  }
